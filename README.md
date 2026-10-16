@@ -16,7 +16,7 @@
 <!--                     PROFILE VIEW COUNTER                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://komarev.com/ghpvc/?username=jashankish&style=for-the-badge&color=302b63&labelColor=0f0c29&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://gh-view-counter.jashankish.workers.dev/?user=jashankish&style=card&theme=dark" alt="profile views"/>
 
 </div>
 
